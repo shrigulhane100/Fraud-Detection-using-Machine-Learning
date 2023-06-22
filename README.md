@@ -1,14 +1,13 @@
 # Fraud Detection using Machine Learning
 
-A brief description of what this project does and who it's for
+Develop a model for predicting fraudulent transactions for a financial company and use insights from the model to develop an actionable plan. 
 
 ## Description
 
-Write a detailed description of your project here. Explain what it does, why it is useful, and how it works.
+The project aims to develop a machine-learning model that can predict fraudulent transactions for a financial company. The data for this project is available in CSV format with 6362620 rows and 10 columns.  The model will be estimated on calibration data and tested on validation data. This project requires both statistical analysis and creativity/judgment.
 
 ## Screenshots
 
-Include screenshots or gifs of your project here.
 
 ## Features
 
